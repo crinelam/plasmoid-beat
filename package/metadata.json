@@ -11,11 +11,9 @@
         "Icon": "chronometer",
         "Id": "com.github.crinelam.beat",
         "Name": "beat",
+        "License": "GPL-2.0",
         "Version": "0.1.0",
         "Website": "https://github.com/crinelam/plasmoid-beat"
     },
-    "KPackageStructure": "Plasma/Applet",
-    "X-Plasma-API": "declarativeappletscript",
-    "X-Plasma-API-Minimum-Version": "6.0",
-    "X-KDE-ParentApp": ""
+    "X-Plasma-API-Minimum-Version": "6.0"
 }
