@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "crinelam@tutamail.com",
+                "Name": "Cristina Ibañez"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "Swatch .beat time",
+        "Icon": "chronometer",
+        "Id": "com.github.crinelam.beat",
+        "Name": "beat",
+        "Version": "0.1.0",
+        "Website": "https://github.com/crinelam/plasmoid-beat"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-KDE-ParentApp": ""
+}
